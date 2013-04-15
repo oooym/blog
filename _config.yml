@@ -1,0 +1,6 @@
+﻿permalink: /:year/:month/:title/
+url: http://oooym.com/blog
+author: 杨明
+markdown: rdiscount
+pygments: true
+
